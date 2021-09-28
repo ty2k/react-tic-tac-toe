@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# react-tic-tac-toe
+
+Tic-tac-toe with a React function component and the [`useState`](https://reactjs.org/docs/hooks-reference.html#usestate) hook.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
